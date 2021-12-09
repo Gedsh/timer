@@ -1,4 +1,4 @@
-package pan.alexander.dictionary
+package pan.alexander.timer
 
 import org.junit.Test
 
